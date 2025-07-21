@@ -1,4 +1,4 @@
-# Smart Marketing Assistant using Crew AI
+# MarketSync Crew
 
 ## Overview
 MarketSync Crew is an innovative project that leverages AI agents to automate tasks within an Instagram marketing workflow. This project aims to streamline and optimize various marketing activities, providing users with a powerful tool to enhance their social media strategies.
